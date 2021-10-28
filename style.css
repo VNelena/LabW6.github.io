@@ -61,3 +61,7 @@ font-size:30px;
 h2{
 text-align:center;
 }
+
+.col-lg-3 col-md-4{
+background-color:#FFF0F5;
+}
